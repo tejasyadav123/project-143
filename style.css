@@ -1,0 +1,37 @@
+
+.heading{
+    width: 100%;
+    text-align: left;
+}
+
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+
+.heading h3{
+    display: inline;
+}
+
+#start ,#status{
+    font-size: 22px;
+}
+
+.modal-dialog{
+    width: 70%;
+}
+
+.modal-body{
+    text-align: left;
+    font-size: 20px;
+}
+
+.copyrightfotter{
+    background-color: orange;
+    color: aqua;
+    text-align: center;
+    line-height: 3;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+}
